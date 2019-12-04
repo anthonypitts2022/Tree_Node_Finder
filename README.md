@@ -7,6 +7,6 @@ Nodes in tree are organized with a Name field (String) and Children,
 This program searches for a target node name, specified in the main function.
 
 
-Author: Anthony Pitts ,
+Author: Anthony Pitts 
 
 Email: anthony.pitts@columbia.edu
