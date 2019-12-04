@@ -59,7 +59,8 @@ def main():
     B2.set_children([C1])
     
     #find the specified node in the tree
-    found = find_node(Start, "FindMe")
+    #Start is head/top node of tree
+    found = find_node(Start, "FindMe") 
     if(not found):
         print("This node is not in the tree.")
     
